@@ -1,2 +1,3 @@
 # DBook
-E-books database with non-profit distribution
+
+Sistema web CMS para almacenar archivos con descripciones html asociadas.
